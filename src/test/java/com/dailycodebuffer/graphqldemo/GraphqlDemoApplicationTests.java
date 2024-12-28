@@ -1,10 +1,10 @@
-package org.example.graphqlspringbootsample;
+package com.dailycodebuffer.graphqldemo;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class GraphqlSpringBootSampleApplicationTests {
+class GraphqlDemoApplicationTests {
 
 	@Test
 	void contextLoads() {
